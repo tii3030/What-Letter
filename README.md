@@ -1,8 +1,6 @@
-**DESAFIO IOASYS BOOK**
-
-<h1 align="center"> IOASYS BOOK </h1>
-<p align="justify"> Este aplicativo é uma biblioteca de Livros </p>
-<p align="justify"> O App foi desenvolvido com o framework React Native e a linguagem Typescript e possui algumas funcionalidades que simulam uma Biblioteca Virtual. Nesta mesma branch (main) há um compilação (.apk) para teste do app</p>
+<h1 align="center"> WHAT LETTER </h1>
+<p align="justify"> Este aplicativo utiliza inteligência artificial </p>
+<p align="justify"> O App foi desenvolvido com o framework React Native e a linguagem Typescript e possui algumas funcionalidades para identificação de caracteres. Nesta mesma branch (main) há um compilação (.apk) para teste do app</p>
 <img src="https://raw.githubusercontent.com/tii3030/ioasysBook/main/Screeshot.png?token=GHSAT0AAAAAABU3KGP6R7UGP7PWE7JCB3VAYULYKDQ"></img>
 
 
@@ -16,17 +14,6 @@
 - [react-redux](https://react-redux.js.org/): versão 8.0.2
 - [@reduxjs/toolkit](https://redux-toolkit.js.org/usage/usage-with-typescript): versão 1.8.1
 - [Styled Components](https://styled-components.com/docs/basics): 5.3.5
-
-
-## Rodando a aplicação :arrow_forward:
-
-```sh
-git clone https://github.com/tii3030/ioasysBook.git
-cd ioasysBook
-npm install
-npx react-native run-android
-npm start
-```
 
 
 ## Desenvolvedor: 
