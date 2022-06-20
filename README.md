@@ -1,7 +1,7 @@
 <h1 align="center"> WHAT LETTER </h1>
 <p align="justify"> Este aplicativo utiliza inteligência artificial </p>
 <p align="justify"> O App foi desenvolvido com o framework React Native e a linguagem Typescript e possui algumas funcionalidades para identificação de caracteres. Nesta mesma branch (main) há um compilação (.apk) para teste do app</p>
-<img src="https://raw.githubusercontent.com/tii3030/ioasysBook/main/Screeshot.png?token=GHSAT0AAAAAABU3KGP6R7UGP7PWE7JCB3VAYULYKDQ"></img>
+<img src="https://raw.githubusercontent.com/tii3030/What-Letter/master/Screenshot.png"></img>
 
 
 > Status do Projeto: Em desenvolvimento :warning:
